@@ -1,0 +1,22 @@
+{
+    "name": "FRECYBER MD session",
+    "description": "FRECYBER-MD WA bot, Created by Fredie fredietechTZ to simplify your digital lives",
+    "logo": "https://telegra.ph/file/1d4a42b28790d0f7a7195.jpg",
+    "repository": "https://github.com/fredietechTZ/Frecyber-Md-Session",
+    "keywords": ["FrecyberMd"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
