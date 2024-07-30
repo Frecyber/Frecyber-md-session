@@ -73,10 +73,10 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@freeonlinetvT1_
 ║❒ *Owner:* _https://wa.me/255620814108_
-║❒ *Repo:* _https://github.com/fredietechTZ/Frecyber-md_
-║❒ *WaGroup:* _https://chat.whatsapp.com/Iu3UYEx1lE6IsHVRU7XKvp_
+║❒ *Repo:* _https://github.com/Frecyber/Frecyber-md_
+║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f_
-║❒ *Plugins:* _https://github.com/fredietechTZ/Frecyber-md-plugins_
+║❒ *Plugins:* _https://github.com/Frecyber/Frecyber-md-plugin_
 ╚══════════════════════╝ 
 _____________________________________
 	
