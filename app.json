@@ -1,8 +1,8 @@
 {
     "name": "FRECYBER MD session",
     "description": "FRECYBER-MD WA bot, Created by Fredie fredietechTZ to simplify your digital lives",
-    "logo": "https://telegra.ph/file/1d4a42b28790d0f7a7195.jpg",
-    "repository": "https://github.com/fredietechTZ/Frecyber-Md-Session",
+    "logo": "https://telegra.ph/file/957aab565af943d0c5109.jpg",
+    "repository": "https://github.com/Frecyber/Frecyber-Md-Session",
     "keywords": ["FrecyberMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
