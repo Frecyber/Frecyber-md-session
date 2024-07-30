@@ -8,9 +8,9 @@
 # kindly fork the repo now
 use the below button to fork the repo and edit for session id for your bot
 
-***Click [`FORK`](https://github.com/fredietechTZ/Frecyber-md-session/fork) and `Star ⭐ Repository` for Courage.***
+***Click [`FORK`](https://github.com/Frecyber/Frecyber-md-session/fork) and `Star ⭐ Repository` for Courage.***
 
 # now heroku deploy ✍️👋
 deploy your session id to heroku below 👇👇👇👇
 
-***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/fredietechTZ/Frecyber-md-session)***
+***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Frecyber/Frecyber-md-session)***
